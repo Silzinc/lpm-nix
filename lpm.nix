@@ -9,15 +9,15 @@ let
   platform_attrs = {
     "aarch64-darwin" = {
       url = "https://github.com/codebycruz/lpm/releases/download/nightly/lpm-macos-aarch64";
-      sha256 = "179jqvwsid8c34yvj29k4dm0z7y0yd3xyjmf1k701ghdgv145xhc";
+      sha256 = "0a6717dw5c1hhdh1yhvxqrnfplyjxl51g3hi1klgyg196ylmg97d";
     };
     "aarch64-linux" = {
       url = "https://github.com/codebycruz/lpm/releases/download/nightly/lpm-linux-aarch64";
-      sha256 = "0698vzymygwwfay527pp863lpmn3lyqdx0pcn652bdhr2vp0h0wg";
+      sha256 = "0q4zl73gk9fpbq7gc18jbhqv0rars4ypvzby16gl6phw291jnpyq";
     };
     "x86_64-linux" = {
       url = "https://github.com/codebycruz/lpm/releases/download/nightly/lpm-linux-x86-64";
-      sha256 = "0vbw03119lz9s5cvc25fvylxxlm133rcw9xawcy26sgvwahjdmwx";
+      sha256 = "1a0a1z5mkn527jv2694sv0n9pcgmc9f4zzk1df26prvvjmbs59x4";
     };
   };
   # GENERATED VERSION CONTROL - END
